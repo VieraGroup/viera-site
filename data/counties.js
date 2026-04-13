@@ -11,4 +11,16 @@ export const counties = [
     slug: "essex-county",
     cities: ["newark", "bloomfield", "montclair", "irvington", "east-orange"],
   },
+  {
+    slug: "hudson-county",
+    cities: ["jersey-city", "hoboken", "union-city", "bayonne", "north-bergen"],
+  },
+  {
+    slug: "morris-county",
+    cities: ["morristown", "parsippany", "dover", "madison", "denville"],
+  },
+  {
+    slug: "union-county",
+    cities: ["elizabeth", "union", "plainfield", "linden", "roselle"],
+  },
 ];
